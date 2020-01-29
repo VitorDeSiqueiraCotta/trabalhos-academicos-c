@@ -1,0 +1,9 @@
+#Pastas não relevantes para o repositório
+source/bin
+source/obj
+
+#Extensões não relevantes para o repositório
+*.exe
+*.o
+*.depend
+*.layout
